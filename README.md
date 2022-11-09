@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrunaDamaris&theme=gotham)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDamaris&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![@brunadamaris's Holopin board](https://holopin.me/brunadamaris)](https://holopin.io/@brunadamaris)

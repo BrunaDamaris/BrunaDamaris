@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=BrunaDamaris&show_icons=true&theme=gotham" width="400">
+<!--<img src="https://github-readme-stats.vercel.app/api?username=BrunaDamaris&show_icons=true&theme=gotham" width="400">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrunaDamaris&theme=gotham)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDamaris&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <picture>
   <source
@@ -28,9 +32,5 @@ Here are some ideas to get you started:
   />
   <img src="https://github-readme-stats.vercel.app/api?username=BrunaDamaris&show_icons=true" />
 </picture>
-
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrunaDamaris&theme=gotham)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaDamaris&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)-->
 
 [![@brunadamaris's Holopin board](https://holopin.me/brunadamaris)](https://holopin.io/@brunadamaris)

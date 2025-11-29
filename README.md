@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=BrunaDamaris&show_icons=true&theme=gotham" width="400">
 
-[![(https://github-readme-stats.vercel.app/api?username=BrunaDamaris)](https://github.com/anuraghazra/github-readme-stats)
+[(https://github-readme-stats.vercel.app/api?username=BrunaDamaris)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BrunaDamaris&theme=gotham)](https://git.io/streak-stats)
 
